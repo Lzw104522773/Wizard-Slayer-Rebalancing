@@ -21,8 +21,8 @@ ASK_EVERY_COMPONENT                                                             
 LANGUAGE ~English~ ~ENGLISH~ ~wsr/tra/english/wsr.tra~
 LANGUAGE ~Russian~ ~RUSSIAN~ ~wsr/tra/english/wsr.tra~ ~wsr/tra/russian/wsr.tra~
 LANGUAGE ~French~  ~FRENCH~  ~wsr/tra/english/wsr.tra~ ~wsr/tra/french/wsr.tra~
-LANGUAGE ~ºÚÃÂ÷–Œƒ (Simplified Chinese)~  ~CHS~  ~wsr/tra/english/wsr.tra~ ~wsr/tra/chs/wsr.tra~
-LANGUAGE %¡c≈È§§§Â (Traditional Chinese)% ~CHT~  ~wsr/tra/english/wsr.tra~ ~wsr/tra/cht/wsr.tra~
+LANGUAGE ~Simplified Chinese~  ~CHS~  ~wsr/tra/english/wsr.tra~ ~wsr/tra/chs/wsr.tra~
+LANGUAGE ~Traditional Chinese)~ ~CHT~  ~wsr/tra/english/wsr.tra~ ~wsr/tra/cht/wsr.tra~
 LANGUAGE ~German~  ~GERMAN~  ~wsr/tra/english/wsr.tra~ ~wsr/tra/german/wsr.tra~
 LANGUAGE ~Espa§ol por Lisandro acompa§ado por William Imm~ ~SPANISH~ ~wsr/tra/spanish/wsr.tra~
 LANGUAGE ~Polish~ ~POLISH~ ~wsr/tra/polish/wsr.tra~
